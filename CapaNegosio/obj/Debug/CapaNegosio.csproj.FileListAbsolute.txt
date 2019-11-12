@@ -1,0 +1,11 @@
+C:\Users\tobiL\source\repos\Login\CapaNegosio\bin\Debug\CapaNegosio.dll
+C:\Users\tobiL\source\repos\Login\CapaNegosio\bin\Debug\CapaNegosio.pdb
+C:\Users\tobiL\source\repos\Login\CapaNegosio\bin\Debug\CapaDatos.dll
+C:\Users\tobiL\source\repos\Login\CapaNegosio\bin\Debug\CapaDatos.pdb
+C:\Users\tobiL\source\repos\Login\CapaNegosio\obj\Debug\CapaNegosio.csprojAssemblyReference.cache
+C:\Users\tobiL\source\repos\Login\CapaNegosio\obj\Debug\CapaNegosio.csproj.CoreCompileInputs.cache
+C:\Users\tobiL\source\repos\Login\CapaNegosio\obj\Debug\CapaNegosio.csproj.CopyComplete
+C:\Users\tobiL\source\repos\Login\CapaNegosio\obj\Debug\CapaNegosio.dll
+C:\Users\tobiL\source\repos\Login\CapaNegosio\obj\Debug\CapaNegosio.pdb
+C:\Users\tobiL\source\repos\Login\CapaNegosio\bin\Debug\Common.dll
+C:\Users\tobiL\source\repos\Login\CapaNegosio\bin\Debug\Common.pdb

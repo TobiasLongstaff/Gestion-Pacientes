@@ -1,0 +1,6 @@
+C:\Users\tobiL\source\repos\Login\Common\bin\Debug\Common.dll
+C:\Users\tobiL\source\repos\Login\Common\bin\Debug\Common.pdb
+C:\Users\tobiL\source\repos\Login\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\tobiL\source\repos\Login\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\tobiL\source\repos\Login\Common\obj\Debug\Common.dll
+C:\Users\tobiL\source\repos\Login\Common\obj\Debug\Common.pdb
